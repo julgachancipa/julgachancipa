@@ -6,7 +6,7 @@
 	
 <img align="left" src="octocat-rmgb.png" height="280px">
 
-<div>
+<div align="left">
 
   <h3>
     Software developer from 
