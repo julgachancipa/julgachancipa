@@ -11,6 +11,7 @@
 <img align="left" src="octocat-rmgb.png" height="270px">
 
 <div>
+
   - :computer: I'm focused on backend development.
   
   - 🌱 I'm currently a [Data Science](https://www.javeriana.edu.co/carrera-ciencia-de-datos) student.
