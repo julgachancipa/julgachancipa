@@ -35,12 +35,13 @@
 
 ---
 
-<h2 align="left">:rocket: Skills</h2>
-
 <div align="right">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=julgachancipa&show_icons=true&locale=en&layout=compact" alt="julgachancipa" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=julgachancipa&show_icons=true&locale=en" alt="julgachancipa" /></p>
 </div>
+
+<h2 align="left">:rocket: Skills</h2>
+
 <div>
 <details>
 	<summary>:mega:&nbsp;&nbsp;&nbsp;<b>Programming Languages</b></summary>
