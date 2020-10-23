@@ -2,7 +2,7 @@
 
   <img align="left" src="octocat-rmgb.png" height="300px">
 
-   <div align="right">
+  <div>
   <h1 align="center">
     Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Emma Gachancipa
   </h1>
@@ -31,7 +31,7 @@
   Connect with me:
 </h3>
 
-<div align="left" display="inline">
+<div align="left">
   
   <a href="https://twitter.com/emm_coded" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="emm_coded" height="30" width="40" /></a>
 
