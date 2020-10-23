@@ -1,4 +1,4 @@
-<img align="left" src="octocat-rmgb.png" height="300px" margin="50px 5px">
+<img align="left" src="octocat-rmgb.png" height="300px" margin="500px 5px">
 <div>
 
   <h1 align="center">
