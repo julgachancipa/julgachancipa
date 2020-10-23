@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Emma Gachancipa</h1>
-<h3 align="center">Software developer. Passionate about Data Science and Machine Learning.</h3>
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Emma Gachancipa
+</h1>
+
+<h3 align="center">
+  Software developer. Passionate about Data Science and Machine Learning.
+</h3>
+
+<img align="left" src="octocat.png">
 
 - 🌱 I’m currently learning **Django**
 
@@ -7,7 +14,10 @@
 
 - 📫 How to reach me **julianaga01@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">
+  Connect with me:
+</h3>
+
 <p align="left">
 <a href="https://twitter.com/emm_coded" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="emm_coded" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/emma-gachancipa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="emma-gachancipa" height="30" width="40" /></a>
