@@ -1,8 +1,6 @@
+<img align="left" src="octocat-rmgb.png" height="300px">
 <div>
 
-  <img align="left" src="octocat-rmgb.png" height="300px">
-
-  <div>
   <h1 align="center">
     Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Emma Gachancipa
   </h1>
@@ -24,7 +22,7 @@
   - :horse: Animal lover.
 
   - 📫 How to reach me **julianaga01@gmail.com**
-   <div>
+
 </div>
 
 <h3 align="left">
