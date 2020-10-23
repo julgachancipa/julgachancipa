@@ -1,16 +1,16 @@
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Emma Gachancipa
 </h1>
-
-<h4 align="center">
-  Software developer from 
-  <a href="https://www.google.com/maps/place/Colombia/@4,-72z/">Colombia 🇨🇴 </a> <br/>
-  Passionate about Data Science and Machine Learning
-</h4>
  
 <img align="left" src="octocat-rmgb.png" height="250px">
 
 <div>
+
+  <h4>
+    Software developer from 
+    <a href="https://www.google.com/maps/place/Colombia/@4,-72z/">Colombia 🇨🇴 </a> <br/>
+    Passionate about Data Science and Machine Learning
+  </h4>
 
   - :computer: I'm focused on backend development.
   
