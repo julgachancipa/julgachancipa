@@ -27,7 +27,7 @@
   
 - 💬 Ask me anything, I love learning new things, let me know if I can help you!
 
-- :snake: Actually doing things in a pythonic way: **Numpy, Pandas, Tensorflow/Keras, Scikit-learn, Django, Flask**
+- :snake: Pythonic way: **Numpy, Pandas, Tensorflow/Keras, Scikit-learn, Django, Flask**
 
 - :horse: Animal lover.
 
