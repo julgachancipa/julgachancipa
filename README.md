@@ -121,7 +121,7 @@
 
 <details>
 	<summary>📊&nbsp;&nbsp;&nbsp;<b>GitHub Stats (Tap here) </b></summary>
-	<br/>  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=julgachancipa&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julgachancipa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+	<br/> 
+	<img src="https://github-readme-stats.vercel.app/api?username=julgachancipa&show_icons=true" alt="GitHub Stats" align="top"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julgachancipa&layout=compact" alt="GitHub Top Languages" align="top"/>
 </details>
