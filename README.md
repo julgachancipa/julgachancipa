@@ -6,7 +6,7 @@
   Software developer. Passionate about Data Science and Machine Learning.
 </h3>
 
-<img align="left" src="octocat.png">
+<img align="left" src="octocat.png" height="100px">
 
 - 🌱 I’m currently learning **Django**
 
