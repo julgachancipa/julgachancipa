@@ -2,31 +2,27 @@
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Emma Gachancipa
 </h1>
 	
-<div><br/>
 <img align="left" src="octocat-rmgb.png" height="280px">
-</div>
 
-<div align="left">
+<h3>
+  Software developer from 
+  <a href="https://www.google.com/maps/place/Colombia/@4,-72z/">Colombia 🇨🇴 </a> <br/>
+  Passionate about Data Science and Machine Learning
+</h3>
 
-  <h3>
-    Software developer from 
-    <a href="https://www.google.com/maps/place/Colombia/@4,-72z/">Colombia 🇨🇴 </a> <br/>
-    Passionate about Data Science and Machine Learning
-  </h3>
-
-  - :computer: I'm focused on backend development.
+- :computer: I'm focused on backend development.
   
-  - 🌱 I'm currently a [Data Science](https://www.javeriana.edu.co/carrera-ciencia-de-datos) student.
+- 🌱 I'm currently a [Data Science](https://www.javeriana.edu.co/carrera-ciencia-de-datos) student.
   
-  - 💬 Ask me anything, I love learning new things, let me know if I can help you!
+- 💬 Ask me anything, I love learning new things, let me know if I can help you!
 
-  - :snake: Actually doing things in a pythonic way: **Numpy, Pandas, Tensorflow/Keras, Scikit-learn, Django, Flask**
+- :snake: Actually doing things in a pythonic way: **Numpy, Pandas, Tensorflow/Keras, Scikit-learn, Django, Flask**
 
-  - :horse: Animal lover.
+- :horse: Animal lover.
 
-  - 📫 How to reach me **julianaga01@gmail.com**
+- 📫 How to reach me **julianaga01@gmail.com**
 
-</div>
+---
 
 <h3 align="left">
   Connect with me:
