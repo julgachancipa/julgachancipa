@@ -12,9 +12,9 @@
     Passionate about Data Science and Machine Learning
   </h4>
 
-  - :mortar_board: I'm currently a [Data Science](https://www.javeriana.edu.co/carrera-ciencia-de-datos) student.
-
-  - 🌱 I’m currently learning **Django**
+  - :computer: Currently focused on backend development.
+  
+  - 🌱 I'm currently a [Data Science](https://www.javeriana.edu.co/carrera-ciencia-de-datos) student.
 
   - 💬 Ask me about **Python, Numpy, Pandas, Tensorflow, SQL**
 
