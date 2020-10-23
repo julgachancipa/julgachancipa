@@ -1,7 +1,13 @@
+<p align="center">
+<a href="https://twitter.com/emm_coded" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="emm_coded" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/emma-gachancipa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="emma-gachancipa" height="30" width="40" /></a>
+</p>
+
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Emma Gachancipa
 </h1>
-	
+
 <h3 align="center">
   Software developer from 
   <a href="https://www.google.com/maps/place/Colombia/@4,-72z/">Colombia 🇨🇴 </a> <br/>
@@ -28,13 +34,6 @@
   Connect with me:
 </h3>
 
-<div align="left">
-  
-  <a href="https://twitter.com/emm_coded" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="emm_coded" height="30" width="40" /></a>
-
-  <a href="https://linkedin.com/in/emma-gachancipa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="emma-gachancipa" height="30" width="40" /></a>
-
-</div>
 
 <h3 align="left">Languages and Tools:</h3>
   
