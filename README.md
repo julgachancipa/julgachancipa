@@ -8,7 +8,8 @@
   Passionate about Data Science and Machine Learning
 </h4>
  
-<img align="left" src="octocat-rmgb.png" height="280px">
+<img align="left" src="octocat-rmgb.png" height="270px">
+
 <div>
   - :computer: I'm focused on backend development.
   
