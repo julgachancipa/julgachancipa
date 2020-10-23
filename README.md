@@ -1,18 +1,22 @@
-<h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Emma Gachancipa
-</h1>
+<div>
+  
+  <img align="left" src="octocat-rmgb.png" height="250px">
 
-<h3 align="center">
-  Software developer. Passionate about Data Science and Machine Learning.
-</h3>
+  <h1 align="center">
+    Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Emma Gachancipa
+  </h1>
 
-<img align="left" src="octocat-rmgb.png" height="250px">
+  <h3 align="center">
+    Software developer. Passionate about Data Science and Machine Learning.
+  </h3>
 
-- 🌱 I’m currently learning **Django**
+  - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Python, Numpy, Pandas, Tensorflow, SQL**
+  - 💬 Ask me about **Python, Numpy, Pandas, Tensorflow, SQL**
 
-- 📫 How to reach me **julianaga01@gmail.com**
+  - 📫 How to reach me **julianaga01@gmail.com**
+
+</div>
 
 <h3 align="left">
   Connect with me:
