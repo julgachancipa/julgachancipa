@@ -9,15 +9,15 @@
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Emma Gachancipa
 </h1>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=julgachancipa&label=Profile%20views&color=0e75b6&style=flat" alt="julgachancipa" />
-</p>
-
 <h3 align="center">
   Software developer from 
   <a href="https://www.google.com/maps/place/Colombia/@4,-72z/">Colombia 🇨🇴 </a> <br/>
   Passionate about Data Science and Machine Learning
 </h3>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=julgachancipa&label=Profile%20views&color=0e75b6&style=flat" alt="julgachancipa" />
+</p>
 
 <img align="left" src="octocat-rmgb.png" height="270px">
 
@@ -35,11 +35,9 @@
 
 ---
 
-
-<h3 align="left">
-  Connect with me:
-</h3>
-
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
   
