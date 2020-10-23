@@ -8,7 +8,7 @@
 
   <h3 align="center">
     Software developer from 
-    <a href="https://www.google.com/maps/place/Colombia/@4,-72z/">Colombia 🇨🇴 </a>
+    <a href="https://www.google.com/maps/place/Colombia/@4,-72z/">Colombia 🇨🇴 </a> <br/>
     Passionate about Data Science and Machine Learning.
   </h3>
   
