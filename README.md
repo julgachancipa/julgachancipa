@@ -120,7 +120,7 @@
 </p>
 
 <details>
-	<summary>📊&nbsp;&nbsp;&nbsp;<b>GitHub Stats (Tap here) </b></summary>
+	<summary>:mag:&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
 	<br/> 
 	<img src="https://github-readme-stats.vercel.app/api?username=julgachancipa&show_icons=true" alt="GitHub Stats" align="top"/>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julgachancipa&layout=compact" alt="GitHub Top Languages" align="top"/>
