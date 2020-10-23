@@ -17,7 +17,7 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=julgachancipa&label=Profile%20views&color=0e75b6&style=flat" alt="julgachancipa" />
-  <a href="https://twitter.com/emm_coded" target="blank"><img src="https://img.shields.io/twitter/follow/emm_coded?logo=twitter&style=for-the-badge" alt="emm_coded" /></p>
+</p>
 
 <img align="left" src="octocat-rmgb.png" height="270px">
 
