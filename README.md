@@ -35,9 +35,9 @@
 
 ---
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=julgachancipa&show_icons=true&locale=en&layout=compact" alt="julgachancipa" /></p>
-
 <h2 align="left">:rocket: Skills</h2>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=julgachancipa&show_icons=true&locale=en&layout=compact" alt="julgachancipa" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=julgachancipa&show_icons=true&locale=en" alt="julgachancipa" /></p>
 
 <div>
 <details>
@@ -176,5 +176,3 @@
   </p>
 </details>
 </div>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=julgachancipa&show_icons=true&locale=en" alt="julgachancipa" /></p>
