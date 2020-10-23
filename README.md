@@ -39,6 +39,7 @@
 
 <h2 align="left">:rocket: Skills</h2>
 
+<div>
 <details>
 	<summary>:mega:&nbsp;&nbsp;&nbsp;<b>Programming Languages</b></summary>
 	<br/>
@@ -174,5 +175,6 @@
   
   </p>
 </details>
+</div>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=julgachancipa&show_icons=true&locale=en" alt="julgachancipa" /></p>
