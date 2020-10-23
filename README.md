@@ -19,7 +19,7 @@
   <img src="https://komarev.com/ghpvc/?username=julgachancipa&label=Profile%20views&color=0e75b6&style=flat" alt="julgachancipa" />
 </p>
 
-<img align="left" src="octocat-rmgb.png" height="270px">
+<img align="left" src="octocat-rmgb.png" height="260px">
 
 - :computer: I'm focused on backend development.
   
