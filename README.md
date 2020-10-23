@@ -15,6 +15,8 @@
   - :computer: Currently focused on backend development.
   
   - 🌱 I'm currently a [Data Science](https://www.javeriana.edu.co/carrera-ciencia-de-datos) student.
+  
+  - :snake: Actually doing things in a pythonic way: **Numpy, Pandas, Tensorflow/Keras, Scikit-learn, Django, Flask**
 
   - 💬 Ask me about **Python, Numpy, Pandas, Tensorflow, SQL**
 
