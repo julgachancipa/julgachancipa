@@ -1,7 +1,8 @@
-<div>
+<div display="inline">
 
-   <img align="left" src="octocat-rmgb.png" height="300px">
+  <img align="left" src="octocat-rmgb.png" height="300px">
 
+   <div>
   <h1 align="center">
     Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Emma Gachancipa
   </h1>
@@ -23,14 +24,14 @@
   - :horse: Animal lover.
 
   - 📫 How to reach me **julianaga01@gmail.com**
-
+   <div>
 </div>
 
 <h3 align="left">
   Connect with me:
 </h3>
 
-<div align="left">
+<div align="left" display="inline">
   
   <a href="https://twitter.com/emm_coded" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="emm_coded" height="30" width="40" /></a>
 
