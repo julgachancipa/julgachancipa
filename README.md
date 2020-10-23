@@ -7,7 +7,7 @@
   </h1>
 
   <h3 align="center">
-    Software developer from [Colombia 🇨🇴](https://www.google.com/maps/place/Colombia/@4,-72z/). Passionate about Data Science and Machine Learning.
+    Software developer from [Colombia 🇨🇴](https://www.google.com/maps/place/Colombia/@4,-72z/) . Passionate about Data Science and Machine Learning.
   </h3>
   
   - :mortar_board: I'm currently a [Data Science](https://www.javeriana.edu.co/carrera-ciencia-de-datos) student.
