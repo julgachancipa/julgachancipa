@@ -8,7 +8,7 @@
   Passionate about Data Science and Machine Learning
 </h4>
  
-<img align="left" src="octocat-rmgb.png" height="270px">
+<img align="left" src="octocat-rmgb.png" height="250px">
 
 <div>
 
