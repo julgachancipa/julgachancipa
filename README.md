@@ -35,10 +35,6 @@
 
 ---
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Languages and Tools:</h3>
   
 <p align="left">
@@ -121,5 +117,6 @@
 
 </p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=julgachancipa&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julgachancipa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=julgachancipa&show_icons=true&locale=en&layout=compact" alt="julgachancipa" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=julgachancipa&show_icons=true&locale=en" alt="julgachancipa" /></p>
