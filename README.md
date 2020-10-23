@@ -12,13 +12,15 @@
     Passionate about Data Science and Machine Learning
   </h4>
 
-  - :computer: Currently focused on backend development.
+  - :computer: I'm focused on backend development.
   
   - 🌱 I'm currently a [Data Science](https://www.javeriana.edu.co/carrera-ciencia-de-datos) student.
   
+  - 💬 Ask me anything, I love learning new things, let me know if I can help you!
+
   - :snake: Actually doing things in a pythonic way: **Numpy, Pandas, Tensorflow/Keras, Scikit-learn, Django, Flask**
 
-  - 💬 Ask me about **Python, Numpy, Pandas, Tensorflow, SQL**
+  - :horse: Animal lover.
 
   - 📫 How to reach me **julianaga01@gmail.com**
 
@@ -28,13 +30,13 @@
   Connect with me:
 </h3>
 
-<p align="left">
+<div align="left">
   
   <a href="https://twitter.com/emm_coded" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="emm_coded" height="30" width="40" /></a>
 
   <a href="https://linkedin.com/in/emma-gachancipa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="emma-gachancipa" height="30" width="40" /></a>
 
-</p>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
   
