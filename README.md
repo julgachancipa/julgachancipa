@@ -5,6 +5,7 @@
 <div display="inline-block">
 	
 <img align="left" src="octocat-rmgb.png" height="280px">
+<br/>
 
 <div align="left">
 
@@ -29,7 +30,6 @@
 </div>
 
 </div>
-<br/>
 
 <h3 align="left">
   Connect with me:
