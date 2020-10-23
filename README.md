@@ -15,6 +15,10 @@
   Passionate about Data Science and Machine Learning
 </h3>
 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=julgachancipa&label=Profile%20views&color=0e75b6&style=flat" alt="julgachancipa" />
+  <a href="https://twitter.com/emm_coded" target="blank"><img src="https://img.shields.io/twitter/follow/emm_coded?logo=twitter&style=for-the-badge" alt="emm_coded" /></p>
+
 <img align="left" src="octocat-rmgb.png" height="270px">
 
 - :computer: I'm focused on backend development.
@@ -30,11 +34,7 @@
 - 📫 How to reach me **julianaga01@gmail.com**
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=julgachancipa&label=Profile%20views&color=0e75b6&style=flat" alt="julgachancipa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=julgachancipa" alt="julgachancipa" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/emm_coded" target="blank"><img src="https://img.shields.io/twitter/follow/emm_coded?logo=twitter&style=for-the-badge" alt="emm_coded" /></a> </p>
 
 <h3 align="left">
   Connect with me:
