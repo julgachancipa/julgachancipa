@@ -35,10 +35,10 @@
 
 ---
 
-<p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=julgachancipa&show_icons=true&locale=en&layout=compact" alt="julgachancipa" /><br/>
-&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=julgachancipa&show_icons=true&locale=en" alt="julgachancipa" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=julgachancipa&show_icons=true&locale=en&layout=compact" alt="julgachancipa" /></p>
 
 <h2 align="left">:rocket: Skills</h2>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=julgachancipa&show_icons=true&locale=en" alt="julgachancipa" /></p>
 
 <details>
 	<summary>:mega:&nbsp;&nbsp;&nbsp;<b>Programming Languages</b></summary>
