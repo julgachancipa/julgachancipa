@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emma Gachancipa</h1>
-<h3 align="center">Software developer. Passionate about Machine Learning and Data Science.</h3>
+<h3 align="center">Software developer. Passionate about Data Science and Machine Learning.</h3>
 
 - 🌱 I’m currently learning **Django**
 
