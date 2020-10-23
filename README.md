@@ -1,7 +1,9 @@
 <p align="center">
+  
 <a href="https://twitter.com/emm_coded" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="emm_coded" height="30" width="40" /></a>
 
 <a href="https://linkedin.com/in/emma-gachancipa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="emma-gachancipa" height="30" width="40" /></a>
+
 </p>
 
 <h1 align="center">
