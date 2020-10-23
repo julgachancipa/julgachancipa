@@ -34,7 +34,7 @@
 - 📫 How to reach me **julianaga01@gmail.com**
 
 ---
-
+<br/>
 <div>
 <h2 align="left">:rocket: Skills</h2>
 <details>
